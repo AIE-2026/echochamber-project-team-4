@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-04-30T18:27:55.462683",
+  "model": "gemini-2.5-flash-lite",
+  "temperature": 0.2,
+  "max_tokens": 120,
+  "task": "neutral_news_summary",
+  "input_text": "\nGuvernul a anunțat un nou program de finanțare pentru modernizarea transportului public în orașele mari.\nProgramul include achiziția de autobuze electrice, modernizarea stațiilor și extinderea sistemelor de ticketing digital.\nReprezentanții ministerului spun că scopul este reducerea poluării și creșterea accesului la transport public.\nUnele organizații civice au cerut criterii clare de alocare a fondurilor și transparență în implementare.\n",
+  "output_text": "Guvernul a anunțat un program de finanțare pentru modernizarea transportului public în orașele mari. Acesta include achiziția de autobuze electrice, modernizarea stațiilor și extinderea sistemelor de ticketing digital. Scopul declarat este reducerea poluării și creșterea accesului. Organizațiile civice au cerut criterii clare de alocare a fondurilor și transparență în implementare."
+}
