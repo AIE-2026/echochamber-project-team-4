@@ -1,1 +1,3 @@
 This is my individual notebook workspace for the AI Engineering course.
+
+Am ales Gemini Flash ca model principal. În testele noastre, modelul a răspuns bine în limba română, a urmat instrucțiunile în mod consistent și s-a dovedit a fi suficient de stabil pentru sarcinile pe care trebuie să le îndeplinim în proiect. În plus, suportă bine output structurat, ceea ce îl face potrivit pentru fluxul nostru de lucru. Ca rezervă, folosim OpenRouter pentru cazurile în care Gemini are limitări de quota sau indisponibilitate.
