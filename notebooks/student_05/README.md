@@ -1,3 +1,12 @@
+
+\# student\_05
+
+
+
+This is my individual notebook workspace for the AI Engineering course.
+
+
+
 # Curs 1 - Introducere, LLM-uri și primul API
 
 Student: student_05
