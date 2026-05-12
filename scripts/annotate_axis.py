@@ -17,16 +17,16 @@ Output:
     justification, confidence
 
 Exemple:
-    python scripts/annotate_axis.py ^
-        --input data/cleaned/corpus_youtube_sample.jsonl ^
-        --output data/annotated/corpus_axis_annotated.jsonl ^
-        --provider gemini
+    python scripts/annotate_axis.py `
+    --input data/cleaned/corpus_youtube_sample.jsonl `
+    --output data/annotated/corpus_axis_annotated.jsonl `
+    --provider gemini
 
-    python scripts/annotate_axis.py ^
-        --input data/cleaned/corpus_youtube_sample.jsonl ^
-        --output data/annotated/corpus_axis_annotated.jsonl ^
-        --provider deepseek ^
-        --limit 100
+    python scripts/annotate_axis.py `
+    --input data/cleaned/corpus_youtube_sample.jsonl `
+    --output data/annotated/corpus_axis_annotated.jsonl `
+    --provider deepseek `
+    --limit 10
 
 Resume:
     Dacă outputul există, sare peste ID-urile deja adnotate.
