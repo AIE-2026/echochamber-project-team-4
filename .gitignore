@@ -10,7 +10,6 @@ __pycache__/
 data/bubbles/*
 !data/raw/.gitkeep
 !data/cleaned/.gitkeep
-!data/bubbles/.gitkeep
 
 # Vector store indexes (large binary files)
 assets/vectorstores/
