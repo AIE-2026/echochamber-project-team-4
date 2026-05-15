@@ -277,7 +277,10 @@ footer a:hover { color: var(--text); }
       <div class="card-icon">🔊</div>
       <div class="card-title">AI Engineering</div>
       <div class="card-desc">Discursive agents, filter bubbles, RAG, and LLM simulation on Romanian political data.</div>
-      <span class="card-badge">ADC 2026</span>
+
+<!-- pentru crearea agentilor discursivi, analiza filter bubble-urilor, RAG, si simularea LLM-urilor pe date politice romanesti. -->
+     
+     <span class="card-badge">ADC 2026</span>
     </div>
 
   </div>
