@@ -94,23 +94,14 @@ def route_decision(state: ThreadState):
 def make_agent_node(slug):
     """
     Creează un nod pentru un agent.
-    Fiecare nod:
-    - citește stimulusul;
-    - citește thread-ul anterior;
-    - cheamă generate_agent_response();
-    - adaugă mesajul nou în messages;
-    - crește current_turn.
     """
 
     def agent_node(state: ThreadState):
 
-        # TODO 1
         thread_text = thread_to_text(state["messages"])
 
-        # TODO 2
         my_handle = HANDLES.get(slug, slug)
 
-        # TODO 3
         if state["messages"]:
             last = state["messages"][-1]
             task = (
@@ -120,7 +111,6 @@ def make_agent_node(slug):
         else:
             task = f"Scrie ca {my_handle}. Reacționează la stimulus."
 
-        # TODO 4
         agent_input = f"""
 [STIMULUS]
 {state["stimulus"]}
@@ -132,7 +122,6 @@ def make_agent_node(slug):
 {task}
 """
 
-        # TODO 5 (DEJA IMPLEMENTAT – NU SCHIMBI)
         result = generate_agent_response(
             agent_slug=slug,
             stimulus=agent_input,
@@ -140,16 +129,16 @@ def make_agent_node(slug):
             k=state["k"]
         )
 
-        # TODO 6
+    
+
         new_message = {
             "agent": slug,
             "slug": slug,
             "handle": my_handle,
-            "text": result,
+            "text": result["response"], 
             "turn": state["current_turn"] + 1
         }
 
-        # TODO 7
         return {
             "messages": state["messages"] + [new_message],
             "current_turn": state["current_turn"] + 1
