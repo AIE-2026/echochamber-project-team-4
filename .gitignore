@@ -7,17 +7,11 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Data files — tracked via .gitkeep, actual data stays local
-data/raw/*
-data/cleaned/*
-data/bubbles/*
 !data/raw/.gitkeep
 !data/cleaned/.gitkeep
-!data/bubbles/.gitkeep
 
 # Vector store indexes (large binary files)
-assets/vectorstores/
-*.faiss
-*.pkl
+
 
 # OS
 .DS_Store

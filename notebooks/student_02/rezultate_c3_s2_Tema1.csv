@@ -1,0 +1,101 @@
+﻿source_channel,video_title,comment_text,model_output
+georgesimionoficial,Turul României: realități de la firul ierbii,Felicitării George Simion Președintele României!🇷🇴😇⛑️🇷🇴❤️🛐❤️✝️✝️✝️❤️🕯️💐🇷🇴🙌💯🙌.,"```json
+{
+  ""target"": ""George Simion, Președintele României"",
+  ""stance"": ""contra"",
+  ""sentiment"": ""pozitiv"",
+  ""tone"": ""emotional"",
+  ""topic"": ""politicieni"",
+  ""interpretation_problem"": ""Comentariul, prin felicitarea adresată lui George Simion ca \""Președintele României\"" (deși acesta nu deține funcția), sugerează o respingere a actualei structuri politice și o susținere a unei alternative percepute ca fiind mai potrivită sau mai reprezentativă, chiar dacă aceasta nu este în funcție. Utilizarea excesivă a emoji-urilor pozitive și religioase amplifică acest sentiment de susținere ferventă a unei figuri percepute ca fiind în afara sau împotriva sistemului actual.""
+}
+```"
+georgesimionoficial,Turul României: realități de la firul ierbii,Asa trebuie să fiți printre oameni nu sa se doarmă in parlament succes domnule Simion nu am greșit cind v-am votat,"```json
+{
+  ""target"": ""parlament, Simion"",
+  ""stance"": ""contra"",
+  ""sentiment"": ""negativ"",
+  ""tone"": ""emotional"",
+  ""topic"": ""guvern, parlament"",
+  ""interpretation_problem"": ""Comentariul exprimă o nemulțumire față de parlamentari, sugerând că aceștia \""se doarmă\"" și nu sunt \""printre oameni\"". Prin contrast, \""domnul Simion\"" este lăudat pentru că ar fi \""printre oameni\"", iar votul acordat acestuia este justificat, implicând o percepție negativă asupra activității parlamentare în general și o preferință pentru o abordare diferită, sugerată de figura lui Simion.""
+}
+```"
+georgesimionoficial,Turul României: realități de la firul ierbii,"Eu am votat cu George Simion din primul tur ptr că am vrut să avem președintele României un tânăr Roman,un patriot și un luptător. Încă nu mi-am pierdut speranța, sper să ne facem bine.","```json
+{
+  ""target"": ""Președintele României"",
+  ""stance"": ""contra"",
+  ""sentiment"": ""negativ"",
+  ""tone"": ""emotional"",
+  ""topic"": ""patriotism"",
+  ""interpretation_problem"": ""Comentariul sugerează o nemulțumire față de candidații tradiționali sau față de sistemul politic care nu a produs un președinte perceput ca fiind \""tânăr, român, patriot și luptător\"". Alegerea lui George Simion, o figură asociată cu discursuri naționaliste și anti-establishment, indică o respingere a politicilor și a politicienilor consacrați, căutând o alternativă radicală percepută ca fiind mai autentică și mai aliniată cu interesele naționale.""
+}
+```"
+georgesimionoficial,Turul României: realități de la firul ierbii,"Si de trebuie deposite de combustibil degeaba avem tancuri,blindate etc daca stau parcate ,cauta sursele de petrol care le are romania si daca nu avem Sau nu suficient cumparam CAT de mult putem deposita","```json
+{
+  ""target"": ""Guvernul/Autoritățile responsabile cu aprovizionarea militară și energetică"",
+  ""stance"": ""contra"",
+  ""sentiment"": ""negativ"",
+  ""tone"": ""rational"",
+  ""topic"": ""Aprovizionare/Resurse"",
+  ""interpretation_problem"": ""Comentariul sugerează ineficiența și lipsa de viziune a autorităților prin punerea sub semnul întrebării a necesității depozitelor de combustibil în contextul existenței unor resurse militare neutilizate și a unei strategii deficitare de achiziție a petrolului. Aceasta implică o neîncredere în capacitatea sistemului de a gestiona eficient resursele strategice.""
+}
+```"
+georgesimionoficial,Turul României: realități de la firul ierbii,"Nu te descuraja că dobitoci și proști vor fi peste tot nu poti sa-i mulțumești pe toți, cu D-ZEU înainte, UNITATE LIBERTATE, PACE, DEMOCRAȚIE. FORȚA AUR, GEORGE SIMION. JOS GUVERNUL ROMÂNIEI. DEMISIA NICUȘOR Dan BOLOJAN PREDOIU VEXLER FRITZ LUDOVIC TERHES KELEMEN HUNOR BARNA CÎȚU..... șamd. CĂLIN GEORGESCU PREȘEDINTELE ROMÂNIEI.","```json
+{
+  ""target"": ""Guvernul României, Nicușor Dan, Bolojan, Predoiu, Vexler, Fritz, Ludovic, Orban, Terheș, Kelemen Hunor, Barna, Cîțu, Călin Georgescu (ca președinte al României)"",
+  ""stance"": ""contra"",
+  ""sentiment"": ""negativ"",
+  ""tone"": ""agresiv"",
+  ""topic"": ""guvern, corupție, politică"",
+  ""interpretation_problem"": ""Comentariul prezintă tendințe anti-sistem prin respingerea vehementă a guvernului actual și a unor politicieni specifici, sugerând o lipsă de încredere profundă în instituțiile și reprezentanții politici ai României. Propunerea unui alt președinte (Călin Georgescu) și susținerea explicită a partidului AUR indică o dorință de schimbare radicală a sistemului politic existent, considerat ineficient sau corupt.""
+}
+```"
+georgesimionoficial,Turul României: realități de la firul ierbii,"Salutare Simioane, bine că te freacă la creier pe tine, dar de Iohanis, nu mai comentează nimeni , la ce deplasări aiurea și fără interes Popular, făcea, sau pe Mucea care se plimbă pe la Timișoara, cu Fritz la braț. Bravoooo George Simion.","```json
+{
+  ""target"": ""Președintele României (Iohannis), Primarul Timișoarei (Fritz), George Simion (menționat ca exemplu de politician activ)"",
+  ""stance"": ""contra"",
+  ""sentiment"": ""negativ"",
+  ""tone"": ""ironic"",
+  ""topic"": ""politicieni, deplasări politice"",
+  ""interpretation_problem"": ""Comentariul exprimă o nemulțumire față de activitatea politicienilor menționați (Iohannis, Fritz), sugerând că deplasările lor sunt 'aiurea și fără interes popular'. Prin contrast, George Simion este prezentat într-o lumină pozitivă, ca un politician care 'se freacă la creier', implicând o activitate mai relevantă sau o preocupare pentru problemele reale, spre deosebire de ceilalți. Această comparație implicită și critica la adresa politicienilor aflați la putere sau cu influență, sugerând ineficiența sau lipsa de relevanță a acțiunilor lor, denotă o atitudine de neîncredere în clasa politică existentă și, implicit, în sistemul pe care aceștia îl reprezintă.""
+}
+```"
+georgesimionoficial,Turul României: realități de la firul ierbii,Vă felicit domnule George că mergeți pe teren să ascultați și să vedeți problemele și nevoile oamenilor❤,"```json
+{
+  ""target"": ""George (probabil un politician sau o figură publică)"",
+  ""stance"": ""pro"",
+  ""sentiment"": ""pozitiv"",
+  ""tone"": ""emotional"",
+  ""topic"": ""interacțiunea cu cetățenii"",
+  ""interpretation_problem"": ""Acest comentariu nu prezintă tendințe anti-sistem. Dimpotrivă, exprimă apreciere pentru o acțiune specifică a unei persoane, sugerând o atitudine pozitivă față de eforturile de a se conecta cu oamenii.""
+}
+```"
+georgesimionoficial,Turul României: realități de la firul ierbii,Tot aud că Simion e un monstru politic. Așa spuneau și despre Vlad Țepeș. Și cu asta am spus tot.🇷🇴☦️,"```json
+{
+  ""target"": ""George Simion, Vlad Țepeș"",
+  ""stance"": ""contra"",
+  ""sentiment"": ""negativ"",
+  ""tone"": ""conspirationist"",
+  ""topic"": ""politica"",
+  ""interpretation_problem"": ""Comentariul sugerează o paralelă între percepția negativă asupra lui George Simion și cea asupra lui Vlad Țepeș, implicând că acuzațiile împotriva lui Simion sunt nefondate și parte dintr-o narațiune negativă orchestrată, similar cu modul în care istoria ar fi putut fi distorsionată în cazul lui Vlad Țepeș. Această comparație, lipsită de context istoric sau politic specific, poate fi interpretată ca o respingere a narativelor dominante sau a criticilor venite din partea 'sistemului' politic, sugerând că aceștia folosesc tactici de denigrare. Prin asocierea lui Simion cu o figură istorică mitizată și prin respingerea implicită a criticilor ca fiind similare cu 'monstru' atribuit lui Țepeș, autorul se poziționează împotriva unei percepții oficiale sau larg acceptate, sugerând o conspirație de denigrare.""
+}
+```"
+georgesimionoficial,Turul României: realități de la firul ierbii,"Așa da, domnule Simion! Tot înainte, până la victoria finală!❤️💛💙🙏🙏🙏","```json
+{
+  ""target"": ""Domnul Simion (probabil un lider politic)"",
+  ""stance"": ""contra"",
+  ""sentiment"": ""pozitiv"",
+  ""tone"": ""emotional"",
+  ""topic"": ""suveranitate/nationalism (implicit)"",
+  ""interpretation_problem"": ""Comentariul exprimă susținere entuziastă pentru o figură politică (domnul Simion) și folosește expresii precum \""Tot înainte, până la victoria finală!\"", care pot sugera o opoziție față de \""sistemul\"" existent și o dorință de schimbare radicală, adesea asociată cu retorica anti-sistem.""
+}
+```"
+georgesimionoficial,Turul României: realități de la firul ierbii,Respect George pentru sacrificiile pe care le faci pentru acest popor. Sunt convins ca ve-ti reusi sa ajungeti la putere si astfel sa indreptati lucrurile in tara noastra. Iti doresc mult succes si multa putere de munca.,"```json
+{
+  ""target"": ""George (persoană/politic)"",
+  ""stance"": ""pro"",
+  ""sentiment"": ""pozitiv"",
+  ""tone"": ""emotional"",
+  ""topic"": ""schimbare politica"",
+  ""interpretation_problem"": ""Comentariul nu prezintă tendințe anti-sistem. Dimpotrivă, exprimă încredere într-o persoană (George) și în capacitatea sa de a ajunge la putere și de a \""îndrepta lucrurile\"", sugerând o dorință de schimbare în cadrul sistemului existent, nu o respingere a acestuia.""
+}
+```"

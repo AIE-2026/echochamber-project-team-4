@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-05-06T14:57:28.886687",
+  "model": "gemini-2.5-flash",
+  "temperature": 0.2,
+  "max_tokens": 120,
+  "task": "student_neutral_summary",
+  "input_text": "\nTransportul public joacă un rol esențial în reducerea poluării urbane și a aglomerației din orașe.\nAutobuzele și tramvaiele electrice contribuie la scăderea emisiilor de carbon.\nInvestițiile în infrastructura de transport pot îmbunătăți eficiența mobilității urbane.\nÎn multe orașe, digitalizarea biletelor a făcut sistemul mai accesibil și mai rapid.\nDezvoltarea rețelelor de transport sustenabil este o prioritate pentru autoritățile locale.\n",
+  "output_text": "Transportul"
+}

@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-04-30T18:27:57.516374",
+  "model": "gemini-2.5-flash-lite",
+  "temperature": 0.2,
+  "max_tokens": 120,
+  "task": "student_neutral_summary",
+  "input_text": "\nTODO: Lipiți aici un text scurt dintr-o sursă publică.\n",
+  "output_text": "Vă rog să furnizați textul pe care doriți să îl rezum. Voi crea un rezumat neutru, clar și factual, de maximum 60 de cuvinte, bazat exclusiv pe informațiile din textul oferit."
+}
