@@ -31,7 +31,7 @@ It does not measure real public opinion, but instead simulates how different int
 
 ```
 echochamber/
-├── notebooks/              # Weekly course notebooks (added during the semester)
+├── notebooks/              
 ├── collector/              # Scripts for collecting comments from YouTube / RSS
 ├── data/
 │   ├── raw/                # Raw collected comments (CSV or JSONL)
@@ -48,7 +48,7 @@ echochamber/
 │   ├── graph.py            # LangGraph agentic debate orchestration
 │   └── metrics.py          # Dissimilarity, sentiment, and visualization
 ├── app/
-│   └── app.py              # Gradio application (built incrementally during course)
+│   └── app.py              # Gradio application 
 └── reports/                # Final report and ethics checklist templates
 ```
 ## Main workflow
@@ -190,7 +190,7 @@ Generated outputs may contain bias, unsupported or false claims, and must be int
 
 See docs\ethics_checklist.md for the complete ethics note and limitations.
 
-## Known issues
+## Known issues & Limitations
 
 - Some news websites block article extraction.
 - Agent responses can be repetitive or overly generic.
